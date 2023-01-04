@@ -25,7 +25,7 @@
       "jsx": true
     },
     "sourceType": "module",
-    "project": "./tsconfig.json"
+    "project": "./gymReservationFE/tsconfig.json",
   },
   "settings": {
     "react": {
